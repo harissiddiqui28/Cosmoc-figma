@@ -9,7 +9,7 @@ function BannerTwo(params) {
         
 
 
-<div class="bg-black text-white p-8 flex flex-col items-center justify-center bannertwo h-screen">
+<div class=" text-white  flex flex-col h-[450px] bg-cover bg-center items-center justify-center bg-herothree bg-no-repeat ">
     <h1 class="text-4xl font-bold mb-6 text-center">Join our community</h1>
     <p class="mb-4 text-center">of stargazers, explorers, and cosmic enthusiasts as we embark on a journey <br />through the cosmos like never before.</p>
     <form class="flex flex-col items-center">

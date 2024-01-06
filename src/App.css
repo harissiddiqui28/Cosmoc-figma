@@ -1,11 +1,3 @@
-.hero{
-    background-image: url('../src/Assets/images/Rectangle\ 3.png');
-    background-repeat: no-repeat;
-    border-radius: 50px;
- 
-    margin-top: 80px;
-    height: 500px;
-}
 
 .material-symbols-outlined {
   font-variation-settings:
@@ -19,22 +11,16 @@
     padding: 10px;
     border-radius: 10px;
 }
-.banner{
-    background-image: url('../src/Assets/images/Rectangle\ 8.png');
-    background-repeat: no-repeat;
-    border-radius: 30px;
-margin: 20px;
-height: 430px;
-}
+
 .num{
     color:#A9C2CB; ;
 }
-
+/* 
 .bannertwo{
     background-image: url('../src/Assets/images/Rectangle\ 504.png');
     background-repeat: no-repeat;
     border-radius: 30px;
 margin: 20px;
 height: 430px;
-}
+} */
 
